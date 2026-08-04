@@ -18,7 +18,7 @@ With an engineering background, I don't just write words — I map user journeys
 `Python` • `SQL` • `API Documentation` • `System Architecture` • `Markdown` • `CRO` • `Email Automation`
 
 ### 🌐 Let's Connect
-- 🚀 **Portfolio:** [longkatdavidamos.carrd.co](https://longkatdavidamos.carrd.co)
+- 🚀 **Portfolio:** [longkatdavidamos.carrd.co](https://longkatdavidamoss.carrd.co)
 - 💼 **LinkedIn:** [Longkat David Amos](https://www.linkedin.com/in/longkat-david-amos-41a821356)
 - 📰 **Medium:** [@longkatdavidamoswrites](https://medium.com/@longkatdavidamoswrites)
 - 💻 **Dev.to:** [@longkatdavidamoswrites](https://dev.to/longkatdavidamoswrites)
